@@ -50,8 +50,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Smriti-Dev19\&show_icons=true\&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Dev19\&layout=compact\&theme=radical)
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Smriti-Dev19&layout=compact&theme=radical)
 ---
 
 ## 📈 Contribution Activity
